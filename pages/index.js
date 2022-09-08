@@ -11,8 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="DMONPAPER Web" />
         <p className="description">
+    <a href="https://dmonpaper.com/" rel="dofollow" title="digital marketing">digital marketing</a>
+    <a href="https://aromamedan.com/" rel="dofollow" title="aroma medan">aroma medan</a>
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
